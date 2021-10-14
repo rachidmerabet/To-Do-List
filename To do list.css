@@ -90,8 +90,10 @@ li {
 
 #list {
   display: flex;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
   margin-top: 3rem;
   margin-left: 2rem;
+  margin-bottom: 1rem;
+  margin-right: 2rem;
 }
